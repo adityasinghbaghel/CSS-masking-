@@ -1,5 +1,5 @@
 # WEBcodes
-Repository full of all web codes
+
 
 IN THIS PROJECT I HAVE MASKED A IMAGE IN TEXT
 
